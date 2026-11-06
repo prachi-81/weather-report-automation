@@ -1,0 +1,12 @@
+pyproject.toml
+src/weather_report/__init__.py
+src/weather_report/api.py
+src/weather_report/cli.py
+src/weather_report/report.py
+src/weather_report/scheduler.py
+src/weather_report_automation.egg-info/PKG-INFO
+src/weather_report_automation.egg-info/SOURCES.txt
+src/weather_report_automation.egg-info/dependency_links.txt
+src/weather_report_automation.egg-info/entry_points.txt
+src/weather_report_automation.egg-info/requires.txt
+src/weather_report_automation.egg-info/top_level.txt
